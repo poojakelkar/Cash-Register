@@ -13,7 +13,7 @@ Created using Javascript, HTML, CSS
 - addEventListener: To perform some operation after clicking on
 
 ### Snapshot
-![snapshot2](snapshot2.PNG)
+![snapshot2](https://user-images.githubusercontent.com/44290901/134705258-ec3465d9-d42b-486f-8095-1f7e75deacb4.PNG)
 
 ### Thanks for going through my project please reach out to me on twitter if you want to give any feedback
 
